@@ -1,4 +1,4 @@
-# Campus Event Management Platform - Prototype
+# Campus Event Management Platform
 
 This is a Django-based Campus Event Management Platform.
 It provides an **admin portal** to manage events and a backend API for **student registrations, attendance, and feedback**. It also includes reporting endpoints to analyze event popularity and student participation.
